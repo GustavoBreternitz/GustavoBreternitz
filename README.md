@@ -9,7 +9,7 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBreternitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -20,7 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />       
-</div>  
+</div>
+
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-breternitz-9b83901ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href= "mailto:breternitzgustavo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-fc0328?style=for-the-badge&logo=gmail&logoColor=white"></a>
