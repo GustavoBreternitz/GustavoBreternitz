@@ -3,7 +3,7 @@
 - 🔭 Currently working with PHP | Wordpress | Docker 
 - ⏳ 24 years old
 
-<div style="display: inline_block"></br>
+<div style="display: inline_block"><br>
   <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
