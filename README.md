@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/GustavoBreternitz">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBreternitz&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBreternitz&show_icons=true&theme=radical&include_all_commits=false"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBreternitz&show_icons=true&theme=radical&include_all_commits=true"/>
 </div>
     
 <div style="display: inline_block"><br>
