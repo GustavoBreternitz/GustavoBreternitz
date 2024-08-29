@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Gustavo Breternitz
 
 - 🔭 Currently working with PHP | Wordpress | Docker 
-- ⏳ 24 years old
+- ⏳ 26 years old
 
 <div>
   <a href="https://github.com/GustavoBreternitz">
@@ -13,7 +13,6 @@
   <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" />
